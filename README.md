@@ -1,2 +1,3 @@
 # FariyQinMallMS_web
 FairyQin 项目的管理系统的前端部分
+本前端工程是基于开源项目人人开源的，是FairyQin(author)基于开源项目迭代的，一切遵循原LICENSE1
